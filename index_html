@@ -12,4 +12,14 @@
 	<h3> <a href ="https://web.njit.edu/~pjc28/fandom/index.html"> Link to
 	Previous Homework for IS117 </a> </h3>
 
+	<p></p>
+	<p></p>
+	<p style= "margin-left:40px"> You can also make a list </p>
+	<ul>
+	<li> 1 Mississippi </li>
+	<li> 2 Mississippi </li>
+	<li> 3 Mississippi </li>
+	<li> 4 Mississippi </li>
+	</ul>
+
 </body>
