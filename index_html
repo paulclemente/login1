@@ -9,4 +9,7 @@
 	<h2> Here are some examples of HTML that  you can do</h2>	
 	<p style= "margin-left:40px"><b> This is bolded </b> But this is
 	not. <i> This is italicized </i> </p> 
+	<h3> <a href ="https://web.njit.edu/~pjc28/fandom/index.html"> Link to
+	Previous Homework for IS117 </a> </h3>
+
 </body>
